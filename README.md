@@ -1,5 +1,3 @@
-## Andrey Chetverikov
-
 Hi! I'm a cognitive (neuro)scientist studying probabilistic brains and developing new methods for neuroimaging and cognitive studies at the Donders Institute for Brain, Cognition, and Behavior. Here are my Github projects:
 
 - [circhelp](https://achetverikov.github.io/circhelp) - a small helper package in R for circular data analyses
