@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Andrey Chetverikov
 
-You can use the [editor on GitHub](https://github.com/achetverikov/achetverikov.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm a cognitive (neuro)scientist studying probabilistic brains and developing new methods for neuroimaging and cognitive studies at the Donders Institute for Brain, Cognition, and Behavior. Here are my Github projects:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [circhelp](https://achetverikov.github.io) - a small helper package in R for circular data analyses
+- [APAstats](https://github.com/achetverikov/APAstats) - R package for formatting results in APA style in LaTeX & RMarkdown
+- [Visual Search DB](https://github.com/achetverikov/visual_search_db) - a living and growing database of visual search datasets
+- [Power analysis via simulations in R](https://github.com/achetverikov/power_simulations_in_R) - a short tutorial
 
-### Markdown
+There's more in [my Github profile](https://github.com/achetverikov). And if you want to know more about my research, check out [my website](https://andreychetverikov.org). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/achetverikov/achetverikov.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
